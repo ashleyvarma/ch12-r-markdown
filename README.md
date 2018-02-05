@@ -5,7 +5,7 @@ In this exercise, you'll practice building a dynamic data report using the [New 
 
 You will need to create and work with multiple files for this exercise, following the below steps:
 
-## 1. Wrangle Data**
+## 1. Wrangle Data
 You will need to implement a script to download the relevant movie review from the NY Times. Follow the instructions in the provided `exercise.R` file. 
 
 _This wrangling is the same as that used in Chapter 11 Exercise-2; you may reuse that content if you wish_.
